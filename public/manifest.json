@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "Porta Secreta - Teclado Infantil",
+  "short_name": "PortaSecreta",
+  "description": "App de teclado e senha para abrir a porta das brincadeiras das crianças com sons divertidos, temas interativos e histórico.",
+  "theme_color": "#f59e0b",
+  "background_color": "#fef3c7",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

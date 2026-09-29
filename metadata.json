@@ -1,0 +1,6 @@
+{
+  "name": "Porta Secreta - Teclado Infantil",
+  "description": "App de teclado e senha para abrir a porta das brincadeiras das crianças com sons divertidos, temas interativos, histórico de tentativas e personalização de senha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

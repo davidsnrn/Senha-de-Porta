@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="110" fill="#fef3c7"/>
+  <!-- Keypad Card -->
+  <rect x="48" y="48" width="416" height="416" rx="36" fill="#ffffff" stroke="#334155" stroke-width="14" stroke-dasharray="2 1"/>
+  <!-- Door lock top arch -->
+  <circle cx="256" cy="140" r="50" fill="none" stroke="#f59e0b" stroke-width="20"/>
+  <rect x="226" y="130" width="60" height="60" rx="12" fill="#d97706"/>
+  <!-- Keypad buttons grid -->
+  <!-- Row 1: 1 2 3 4 5 -->
+  <rect x="76" y="210" width="60" height="56" rx="10" fill="#f8fafc" stroke="#475569" stroke-width="6"/>
+  <text x="106" y="248" font-family="sans-serif" font-weight="bold" font-size="28" fill="#1e293b" text-anchor="middle">1</text>
+  <rect x="146" y="210" width="60" height="56" rx="10" fill="#f8fafc" stroke="#475569" stroke-width="6"/>
+  <text x="176" y="248" font-family="sans-serif" font-weight="bold" font-size="28" fill="#1e293b" text-anchor="middle">2</text>
+  <rect x="216" y="210" width="60" height="56" rx="10" fill="#f8fafc" stroke="#475569" stroke-width="6"/>
+  <text x="246" y="248" font-family="sans-serif" font-weight="bold" font-size="28" fill="#1e293b" text-anchor="middle">3</text>
+  <rect x="286" y="210" width="60" height="56" rx="10" fill="#f8fafc" stroke="#475569" stroke-width="6"/>
+  <text x="316" y="248" font-family="sans-serif" font-weight="bold" font-size="28" fill="#1e293b" text-anchor="middle">4</text>
+  <rect x="356" y="210" width="60" height="56" rx="10" fill="#f8fafc" stroke="#475569" stroke-width="6"/>
+  <text x="386" y="248" font-family="sans-serif" font-weight="bold" font-size="28" fill="#1e293b" text-anchor="middle">5</text>
+
+  <!-- Row 2: 6 7 8 9 0 -->
+  <rect x="76" y="280" width="60" height="56" rx="10" fill="#f8fafc" stroke="#475569" stroke-width="6"/>
+  <text x="106" y="318" font-family="sans-serif" font-weight="bold" font-size="28" fill="#1e293b" text-anchor="middle">6</text>
+  <rect x="146" y="280" width="60" height="56" rx="10" fill="#f8fafc" stroke="#475569" stroke-width="6"/>
+  <text x="176" y="318" font-family="sans-serif" font-weight="bold" font-size="28" fill="#1e293b" text-anchor="middle">7</text>
+  <rect x="216" y="280" width="60" height="56" rx="10" fill="#f8fafc" stroke="#475569" stroke-width="6"/>
+  <text x="246" y="318" font-family="sans-serif" font-weight="bold" font-size="28" fill="#1e293b" text-anchor="middle">8</text>
+  <rect x="286" y="280" width="60" height="56" rx="10" fill="#f8fafc" stroke="#475569" stroke-width="6"/>
+  <text x="316" y="318" font-family="sans-serif" font-weight="bold" font-size="28" fill="#1e293b" text-anchor="middle">9</text>
+  <rect x="356" y="280" width="60" height="56" rx="10" fill="#f8fafc" stroke="#475569" stroke-width="6"/>
+  <text x="386" y="318" font-family="sans-serif" font-weight="bold" font-size="28" fill="#1e293b" text-anchor="middle">0</text>
+
+  <!-- Row 3: Action Buttons (Red & Green) -->
+  <rect x="76" y="356" width="165" height="56" rx="12" fill="#ef4444" stroke="#991b1b" stroke-width="6"/>
+  <text x="158" y="394" font-family="sans-serif" font-weight="bold" font-size="22" fill="#ffffff" text-anchor="middle">APAGAR</text>
+  <rect x="251" y="356" width="165" height="56" rx="12" fill="#22c55e" stroke="#166534" stroke-width="6"/>
+  <text x="333" y="394" font-family="sans-serif" font-weight="bold" font-size="22" fill="#ffffff" text-anchor="middle">ABRIR</text>
+</svg>
